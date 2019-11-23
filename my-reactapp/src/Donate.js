@@ -8,7 +8,7 @@ class Donate extends Component {
       <div className="container">
         <div className="row justify-content-center mb-md-6">
           <div className="col-auto">
-            <a href="index.html">
+            <a href="/">
               <img src="pages/assets/img/veterans-incorporated-bck-01.png" alt="Veterans Incorporated"/>
             </a>
           </div>
