@@ -54,17 +54,17 @@ class Policy extends Component {
                     <h4>Donor Privacy Policy</h4>
                   <p>
                    Personal information provided by the donor will not be shared for any reason unless the donor grants permission.
-                   \n
+                  
                    VII will never sell or trade donor information.
-                   \n
+                   
                    VII will always honor a donor’s request to remain anonymous.
-                   \n
+                   
                    Donors will be contacted periodically for solicitation purposes and/or regarding upcoming events unless the donor has opted out of communications.
-                   \n
+                   
                    VII will honor all donor requests to opt out of mail, email, or phone solicitations. Donors can modify their communication and solicitation preferences by contacting the Development office via email, phone or postal mail. Please contact Development at 630.373.6055.
-                   \n
+                  
                    To assure donors and prospective donors can have trust and confidence in donating to nonprofit organizations, the Association of Fundraising Professionals in conjunction with other philanthropic organizations has created A Donor Bill of Rights. To learn more about your rights please visit: <a href="https://afpglobal.org/sites/default/files/attachments/2018-10/DonorBillofRights.pdf">learn more</a>
-                   \n
+                  
                    Please note that VII complies with this Donor Bill of Rights, with the exception of Article IX, in that we are more protective of donor information than this Bill of Rights because we do NOT share mailing lists.
                   </p>
                   <figure>
