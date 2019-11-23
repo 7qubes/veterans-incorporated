@@ -301,7 +301,7 @@ class Donate extends Component {
          <footer>
                 <div className="row justify-content-center">
                     <div className="col col-md-auto text-center">
-                      <small className="text-muted">&copy;2019 Powered by <a href="https://www.7QUBES.com">7QUBES</a> our  <a href="utility-legal.html">Terms of Service</a> & <a href="utility-legal.html">Private Policies</a>
+                      <small className="text-muted">&copy;2019 Powered by <a href="https://www.7QUBES.com">7QUBES</a> our  <a href="Policy">Terms of Service</a> & <a href="Policy">Private Policies</a>
                       </small>
                     </div>
                   </div>
